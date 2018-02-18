@@ -1,0 +1,7 @@
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\obj\Debug\SatProt.csproj.CoreCompileInputs.cache
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\bin\Debug\SatProt.exe.config
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\bin\Debug\SatProt.exe
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\bin\Debug\SatProt.pdb
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\obj\Debug\SatProt.exe
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\obj\Debug\SatProt.pdb
+C:\Users\yotam\Documents\Visual Studio 2017\Projects\SatProt\SatProt\obj\Debug\SatProt.csprojResolveAssemblyReference.cache
